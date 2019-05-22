@@ -1,0 +1,2 @@
+# flamixpreloade
+Bitrix component
